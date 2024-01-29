@@ -11,11 +11,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/></a>
 - 🌱 I’m currently learning: <a href="#" target="_blank"><img src="https://img.shields.io/badge/next.js-222?style=flat-square&logo=next.js&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/fastlane-00F200?style=flat-square&logo=fastlane&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=222"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon aws&logoColor=fff"/></a>
-- 💬 Ask me about: <a href="mailto:parkjs5143@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkjs5143-EA4335?style=flat-square&logo=gmail&logoColor=fff"/></a>
-- 📫 How to reach me: 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/zustand-222?style=flat-square&logoColor=fff"/></a>
+- 📫 How to reach me:  <a href="mailto:parkjs5143@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkjs5143-EA4335?style=flat-square&logo=gmail&logoColor=fff"/></a>
 <!--<a href="https://www.instagram.com/soonipy"><img src="https://img.shields.io/badge/soonipy-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>-->
 
    
