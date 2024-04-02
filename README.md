@@ -2,17 +2,18 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on: <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=222"/></a>
+- 🔭 skils:
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=222"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/react native-018EF5?style=flat-square&logo=react&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mobX-FF9955?style=flat-square&logo=mobx&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=recoil&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/zustand-222?style=flat-square&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/></a>
 - 🌱 I’m currently learning: <a href="#" target="_blank"><img src="https://img.shields.io/badge/next.js-222?style=flat-square&logo=next.js&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=222"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/zustand-222?style=flat-square&logoColor=fff"/></a>
 - 📫 How to reach me:  <a href="mailto:parkjs5143@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkjs5143-EA4335?style=flat-square&logo=gmail&logoColor=fff"/></a>
 <!--<a href="https://www.instagram.com/soonipy"><img src="https://img.shields.io/badge/soonipy-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>-->
 
