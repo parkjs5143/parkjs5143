@@ -6,10 +6,10 @@
   
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/materialUI-757575?style=flat-square&logo=materialdesign&logoColor=fff"/></a>
+<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff"/></a>-->
+<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/materialUI-757575?style=flat-square&logo=materialdesign&logoColor=fff"/></a>-->
 
 - Frontend
 
@@ -25,12 +25,13 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/reacth hook form-EC5990?style=flat-square&logo=reacthookform&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/reactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=fff"/></a>
+<!--
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/husky-bc3433?style=flat-square&logo=husky&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/metro-EF4242?style=flat-square&logo=metro&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/craco-28dfb7?style=flat-square"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat-square&logo=babel&logoColor=000"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000"/></a>-->
 
 - BackEnd
   
@@ -48,8 +49,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/notion-000?style=flat-square&logo=notion&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000"/></a>
 
    
 [![parkjs5143 GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjs5143&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/parkjs5143/github-readme-stats)
