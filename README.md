@@ -1,16 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20soon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ### Skills 🧩
-
-- Publishing
-  
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/></a>
-<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff"/></a>-->
-<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/materialUI-757575?style=flat-square&logo=materialdesign&logoColor=fff"/></a>-->
-
 - Frontend
 
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/></a>
