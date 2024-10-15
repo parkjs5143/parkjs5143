@@ -13,6 +13,5 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/vercel-000?style=flat-square&logo=vercel&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/gitLab-FC6D26?style=flat-square&logo=gitLab&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/google cloud platform-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=fff"/></a>
