@@ -4,14 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjs5143&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=222"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/react native-018EF5?style=flat-square&logo=react&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/next.js-222?style=flat-square&logo=next.js&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-13C100?style=flat-square"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/vercel-000?style=flat-square&logo=vercel&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/google cloud platform-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=fff"/></a>
