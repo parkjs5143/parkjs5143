@@ -9,3 +9,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/react native-018EF5?style=flat-square&logo=react&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/next.js-222?style=flat-square&logo=next.js&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-13C100?style=flat-square"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-13C100?style=flat-square&logo=spring&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/vercel-000?style=flat-square&logo=vercel&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff"/></a>
